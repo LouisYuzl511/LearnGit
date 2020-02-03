@@ -3,6 +3,7 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 分支管理策略 - 新建分支add
 
+<<<<<<< HEAD
 我在这里进行工作中
 。。。
 。。。
@@ -15,3 +16,6 @@ Creating a new branch is quick and simple.
 。。。
 。。。
 做完啦！！！！
+
+修改了bug101
+已经修改完成
